@@ -1,6 +1,6 @@
 {
   "name": "ohgodmusicbot",
-  "version": "1.0.0",
+  "version": "8.x.x",
   "description": "A v11 Discord.JS music bot in 100 lines or less",
   "main": "server.js",
   "scripts": {
